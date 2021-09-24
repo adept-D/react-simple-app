@@ -1,0 +1,26 @@
+
+.header__list{
+    background-color: rgba(255, 169, 9, 0.76);
+}
+
+.header__list{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    padding: 15px;
+}
+
+.header__list a{
+    text-decoration: none;
+    color: black;
+}
+
+.header__list__link:hover{
+    transform: scale(1.2);
+    transition:ease-out;
+    transition-duration: 0.3s
+}

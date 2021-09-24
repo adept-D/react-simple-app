@@ -1,0 +1,21 @@
+.footer__list{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+    padding: 15px;
+}
+
+.footer__list li{
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.footer__list a{
+    text-decoration: none;
+    color: black;
+   
+}
+
+

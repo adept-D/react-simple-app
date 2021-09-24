@@ -1,0 +1,8 @@
+.article__list{
+    list-style-type: none;
+}
+
+.article__list li{
+    padding: 18px;
+    font-size: 18px;
+}
